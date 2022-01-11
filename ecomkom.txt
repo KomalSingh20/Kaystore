@@ -1,0 +1,303 @@
+<html>
+<head>
+<title> KayStore | Ecommerce Website Design </title>
+<link rel="stylesheet" href="style1.css"/>
+<link href="https://fonts.google.com/share?selection.family=Poppins:ital,wght@1,200" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="header">
+<div class= "container">
+<div class="navbar">
+     <div class="logo"> </div>
+	 <img src="image/kay.jpg" width="125px"/>
+	 
+	 <nav> 
+	    <ul>
+		   <li><a href=""> Home</a></li>
+		   <li><a href=""> Products</a></li>
+		   <li><a href=""> About</a></li>
+		   <li><a href=""> Contact</a></li>
+		   <li><a href=""> Account</a></li>
+		</ul>
+	 </nav>
+	 <img src="image/z.png" width="30px" height="30px"/>
+	 
+</div>
+<div class="row">
+	 <div class="col-2">
+	 <h1> Give Yourself </br> A Creative Touch!</h1>
+	 <p> "Everything you can imagine is real." </br>-- Pablo Picasso</p>
+	 <a href="" class="btn"> Explore Now &#8594;</a>
+	 </div>
+	 
+	  <div class="col-2">
+	  <img src="image/y.jpg" />
+	  </div>
+	 </div>
+</div>
+</div>
+<!---------------featured categories--------------------->
+<div class="categories">
+<div class="small-container">
+<div class="row">
+<div class="col-3">
+<img src="image/g.jpg"/>
+</div>
+<div class="col-3">
+<img src="image/f.jpg"/>
+</div>
+<div class="col-3">
+<img src="image/h.jpg"/>
+</div>
+</div>
+</div>
+</div>
+<!---------------featured products--------------------->
+<div class="small-container">
+<h2 class="title"> Featured Products</h2>
+<div class= "row">
+<div class= "col-4">
+<img src="image/a.jpg"/>
+
+<h4>Choose Happiness Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/b.jpg" width="240" height="240"/>
+
+<h4>Happiness Blooms Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/e.jpg" width="240" height="240"/>
+
+<h4>BOHO Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/d.jpg"/>
+
+<h4>Ilustration Journal</h4>
+<div class="rating" width="240" height="240">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+</div>
+
+<!-------------------latest products-------------------->
+<h2 class="title"> Latest Products</h2>
+<div class= "row">
+<div class= "col-4">
+<img src="image/i.jpg"/>
+
+<h4>Personalised Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/m.jpg" width="240" height="240"/>
+
+<h4>Book Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/k.jpg" width="240" height="240"/>
+
+<h4>art of living Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/l.jpg"/>
+
+<h4>Foreign language Journal</h4>
+<div class="rating" width="240" height="240">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+</div>
+<div class= "row">
+<div class= "col-4">
+<img src="image/p.jpg"/>
+
+<h4>Printed Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/n.jpg" width="240" height="240"/>
+
+<h4>BOHO Leaf Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/j.jpg" width="240" height="240"/>
+
+<h4>Prayer Journal</h4>
+<div class="rating">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+<div class= "col-4">
+<img src="image/q.jpg"/>
+
+<h4>Creativity Journal</h4>
+<div class="rating" width="240" height="240">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<p>Rs 500.00</p>
+</div>
+</div>
+</div>
+<!----------offer------------>
+<div class ="offer">
+    <div class="small-container">
+	    <div class="row">
+		<div class="col-2">
+		<img src="image/t.jpg" class="offer-img"/>
+		</div>
+		<div class="col-2">
+		<p> Exclusively available on Kaystore</p>
+		<h1>Handmade Planners</h1>
+		<small>This planner is handmade and is now exclusively available. 
+		This will help you to plan and organise your day to day activities.
+		90 GSM sheets best suited for painting and writing.</small></br>
+		<a href="" class="btn">Buy Now &#8594;</a>
+		</div>
+		</div>
+	</div>
+
+</div>
+<!-------------testimonials--------------------->
+
+<div class="testimonial">
+<div class="small-container">
+
+<div class="row">
+<div class="col-3">
+<i class="fa fa-quote-left"></i>
+<p>handmade products might take longer time for delivery 
+</br>tha ususal as it requires excellent craftmenship to execute.</p>
+<div class="rating" width="240" height="240">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<img src="image/q.jpg"/>
+<h3>Vikas Kumar Singh</h3>
+
+</div>
+<div class="col-3">
+<i class="fa fa-quote-left"></i>
+<p>handmade products might take longer time for delivery 
+</br>tha ususal as it requires excellent craftmenship to execute.</p>
+<div class="rating" width="240" height="240">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<img src="image/q.jpg"/>
+<h3>Rajshree Singh</h3>
+
+</div>
+<div class="col-3">
+<i class="fa fa-quote-left"></i>
+<p>handmade products might take longer time for delivery 
+</br>tha ususal as it requires excellent craftmenship to execute.</p>
+<div class="rating" width="240" height="240">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star-o"></i>
+</div>
+<img src="image/q.jpg"/>
+<h3>Vijoy Kumar Singh</h3>
+
+</div>
+
+</div>
+</div>
+
+
+</div>
+
+</body>
+</html>
